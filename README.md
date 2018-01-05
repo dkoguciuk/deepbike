@@ -1,7 +1,7 @@
 DeepBike -- MLP for Bike Sharing Demand
 ===================
 
-This is a simple approach to Bike Sharing Demand competition based on MLP architecture implemented in Tensorflow framework. No rocket science, but still entertaining exercise.
+This is a simple approach to Bike Sharing Demand competition based on MLP architecture implemented in the Tensorflow framework. No rocket science, but still entertaining exercise. The Kaggle site about Bike Sharing demand you can find [here](https://www.kaggle.com/c/bike-sharing-demand).
 
 ----------
 
